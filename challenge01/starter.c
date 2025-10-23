@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <assert.h>
 
 int suma(int a, int b) {
     return a + b;
@@ -6,9 +7,7 @@ int suma(int a, int b) {
 
 int main() {
     // Ejemplo de uso rápido
-    int num1 = 2;
-    int num2 = 3;
-    printf("La suma de %d y %d es: %d\n", num1, num2, suma(num1, num2));
-
+    assert(suma(-2, 3) == 1);
+    printf("Ok\n");
     return 0;
 }
