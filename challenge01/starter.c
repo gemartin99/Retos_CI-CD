@@ -7,7 +7,7 @@ int suma(int a, int b) {
 
 int main() {
     // Ejemplo de uso rápido
-    assert(suma(-2, 3) == 1);
+    assert(suma(2, 3) == 5);
     printf("Ok\n");
     return 0;
 }
