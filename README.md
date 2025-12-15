@@ -1,5 +1,7 @@
 # Taller de CI/CD en C
 
+formulario obligatorio: https://airtable.com/appwlasoZKbH8Mu7v/paghVMEXjrj2ieHqA/form
+
 Este repositorio contiene **12 retos progresivos** para aprender CI/CD usando el lenguaje C, 
 pensados para estudiantes de DAW, DAM y ASIR.
 
